@@ -12,4 +12,4 @@
 
 The following software is required to work with the Debezium codebase and build it locally:
 
-* [Talend Kafka](https://git-scm.com) 2.2.1 or later
+* [Talend Kafka](https://github.com/nvietanh2406/debezium/tree/main/nva-documents/talend-kafka) project kafka connector for talendBD 
